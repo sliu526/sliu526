@@ -3,7 +3,7 @@
 I'm a student at Brown University 🐻 studying Computer Science and Applied Math - Economics. I'm passionate about full-stack web development, machine learning, and teaching!
 
 - 💻 Incoming Software Engineering Intern @ Amazon (AWS)
-- 🧠 Currently confidential...
+- 👨‍🏫 Currently confidential...
 - 🤖 Love creating AI/ML projects (check out my personal projects!)
 - 🌐 Working on full-stack projects in React / Node.js / Firebase / AWS
 - 🐝 Previously transferred from Georgia Tech - ask me about it!
