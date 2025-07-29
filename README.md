@@ -1,11 +1,10 @@
-## 👋 Hey, I'm Sammy!
+## Hey, I'm Sammy
 
-I'm a student at Brown University 🐻 studying Computer Science and Applied Math - Economics. I'm passionate about full-stack web development, machine learning, and teaching!
+I'm a student at Brown University studying CS and Math. I'm passionate about full-stack web development, machine learning, and teaching!
 
-- 💻 Incoming Software Engineering Intern @ Amazon (AWS)
-- 👨‍🏫 TA for Brown's Machine Learning course (CS 1420)
+- 💻 Current SWE Intern at AWS, working on both LLM-powered AI agents and full-stack development
+- 👨‍🏫 Current TA for Brown's Machine Learning course (CS 1420)
 - 🤖 Love creating AI/ML projects (check out my personal projects!)
-- 🌐 Working on full-stack projects in React / Node.js / Firebase / AWS
-- 🐝 Previously transferred from Georgia Tech - ask me about it!
+- 🐝 Previously transferred from Georgia Tech, where I also studied CS
 
-📫 Feel free to explore my repos below or [connect with me](mailto:samuel_liu@brown.edu)! My email is samuel_liu (at) brown.edu.
+Feel free to explore my repos below or [connect with me](mailto:samuel_liu@brown.edu)! My email is samuel_liu (at) brown.edu.
