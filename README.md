@@ -2,6 +2,7 @@
 
 I'm a student at Brown University studying CS and Math. I'm passionate about full-stack web development, machine learning, and teaching!
 
+- Incoming SWE Intern at Citadel Securities, working on AI systems
 - Previous SWE Intern at AWS, working on both LLM-powered AI agents and full-stack development
 - Current TA for Brown's Machine Learning course (CS 1420)
 - Love creating AI/ML projects (check out my personal projects!)
