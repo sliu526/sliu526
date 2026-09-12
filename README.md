@@ -1,8 +1,7 @@
 ## Hey, I'm Sammy
 
-I'm a student at Brown University studying CS and Applied Math. I'm passionate about full-stack web development, machine learning, and teaching!
-
-- Incoming SWE Intern at Citadel Securities (Summer 2026), working on AI systems
+I'm a senior at Brown University studying CS and Applied Math.
+- Previous SWE Intern at Citadel Securities (Summer 2026), working on AI systems
 - Previous SWE Intern at AWS (Summer 2025), working on both LLM-powered AI agents and full-stack development
 - Head TA for Brown's Machine Learning Course (CS 1420)
 - Love creating AI/ML projects (check out my personal projects!)
